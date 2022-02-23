@@ -4,7 +4,8 @@
 
 Dreaming of becoming a mobile developer(Android , Kotlin)
 
-**Birth** - 1996.10.05 
+**Birth** - 1996.10.05
+
 **Email** - tpwnd103502@naver.com  
 **profile** - 노션링크  
 **github** - https://github.com/kimq1005
