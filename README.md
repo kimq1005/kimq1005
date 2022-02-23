@@ -5,19 +5,18 @@
 ---
 
 - Name : 김승현 
-- Age : 1996.10.05
-- Profile : 노션링크다 완성되면 올린다 기다려라
-- Email : tpwnd103502@naver.com
+ 
+- Age : 1996.10.05 
+
+- Profile : 노션링크다 완성되면 올린다 기다려라 
+
+- Email : tpwnd103502@naver.com 
+
 - Github : 깃허브 링크는 여기잖아 따로 안올린다
 
 
 ---
 
-
-## Project
----
-
----
 
 ## 👨‍🎓 Education
 
