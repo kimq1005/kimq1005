@@ -1,4 +1,4 @@
-## 김승현
+## 김승현 깃허브 꾸미기 줫나어렵다 꼭해야하냐?
 #### Mobile App Developer 
 > Android, Kotlin
 
