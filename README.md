@@ -1,14 +1,21 @@
-# Legend
+# 전설이될 김승현이다 질문받는다
 
-## 김승현
+## Intro
+---
 
-Dreaming of becoming a mobile developer(Android , Kotlin)
+- Name : 김승현 
+- Age : 1996.10.05
+- Profile : 노션링크다 완성되면 올린다 기다려라
+- Email : tpwnd103502@naver.com
+- Github : 깃허브 링크는 여기잖아 따로 안올린다
 
-**Birth** - 1996.10.05 
-**Email** - tpwnd103502@naver.com  
-**profile** - 노션링크  
-**github** - https://github.com/kimq1005
- 
+
+---
+
+
+## 👨‍🎓 Education
+
+- 호서대학교 컴퓨터소프트웨어 졸업 2015.3 ~ 2022.2
 
 <!---
 kimq1005/kimq1005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
