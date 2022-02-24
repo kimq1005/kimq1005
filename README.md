@@ -28,6 +28,7 @@ Project
 ## 👨‍🎓 Education
 
 - 호서대학교 컴퓨터소프트웨어 졸업 2015.3 ~ 2022.2
+- 육군병장 만기 전역 2016.5 ~ 2018.2
 
 <!---
 kimq1005/kimq1005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
