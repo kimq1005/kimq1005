@@ -2,6 +2,7 @@
 #### Mobile App Developer 
 > Android, Kotlin
 
+Contact & Channels
 ---
 
 - Name : 김승현 
@@ -20,7 +21,7 @@
 Project
 ---
 
-- Your_PreciousTIme : 
+- Your_PreciousTIme : https://github.com/kimq1005/Your_PreciousTime 여기에 설명있다 들어가서 봐주면 
 ---
 
 
