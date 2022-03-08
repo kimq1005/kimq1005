@@ -9,7 +9,7 @@ Contact & Channels
  
 - Age : 1996.10.05 
 
-- Profile : 노션링크다 완성되면 올린다 기다려라 
+- Profile : https://melon-snake-63f.notion.site/Legend-ff23a9b65f6743dc8aef70e8cb852d2d
 
 - Email : tpwnd103502@naver.com 
 
