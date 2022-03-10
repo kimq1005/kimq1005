@@ -1,4 +1,4 @@
-## 전설 김승현이다 에혀 인생 엿같다
+## 전설 김승현이다 인생
 #### Mobile App Developer 
 > Android, Kotlin
 
