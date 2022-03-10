@@ -1,4 +1,4 @@
-## 전설 김승현이다 깃허브 꾸미기 어렵다 살려줘라 참고로 아직 미완성이다
+## 전설 김승현이다 에혀 인생 엿같다
 #### Mobile App Developer 
 > Android, Kotlin
 
