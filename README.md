@@ -1,7 +1,8 @@
 ## 🤗Hi I'm Seoung Hyeon
 > Android, Kotlin
 
-Contact & Channels
+### Tech Stack
+               
 ---
 
 
