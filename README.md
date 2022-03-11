@@ -1,5 +1,4 @@
-## 🤗Hi Im SeoungHyeon
-#### Mobile App Developer 
+### 🤗Hi I'm Seoung Hyeon
 > Android, Kotlin
 
 Contact & Channels
