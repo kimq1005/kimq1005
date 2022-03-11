@@ -1,20 +1,21 @@
 ## 🤗Hi I'm Seoung Hyeon
 
 
-### I'm studying Android/Kotlin
-
+### I'm studying to be Android developer.<br>
 🧑‍💻 Android Studio , Kotlin <br>
 💭 My Profile : https://melon-snake-63f.notion.site/Legend-ff23a9b65f6743dc8aef70e8cb852d2d<br>
-🌊 Contact Email : tpwnd103502@naver.com<br>ddd
+🌊 Contact Email : tpwnd103502@naver.com
+
+<br>
+<br>
+<br>
 
 
 
 
 
 
-
-
-## Github Stats            
+## Teck Stack and Github Stats            
 ---
 
 
