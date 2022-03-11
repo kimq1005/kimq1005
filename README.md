@@ -2,6 +2,8 @@
 > Android, Kotlin
 
 ### Tech Stack
+<img src="https://img.shields.io/badge/Android-E34F26?style=flat-square&logo=Android&logoColor=white"/>
+
                
 ---
 
