@@ -1,10 +1,16 @@
 ## 🤗Hi I'm Seoung Hyeon
 > Android, Kotlin
 
-### Tech Stack
-<img src="https://img.shields.io/badge/Android-E34F26?style=flat-square&logo=Android&logoColor=white"/>
 
-               
+* Notion Profile https://melon-snake-63f.notion.site/Legend-ff23a9b65f6743dc8aef70e8cb852d2d
+* Email : tpwnd103502@naver.com
+* 
+
+
+
+
+
+## Github Stats            
 ---
 
 
