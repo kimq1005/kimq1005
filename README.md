@@ -5,9 +5,9 @@
 > Android , Kotlin <br><br><br>
 
 1996.10.05<br>
-🙋🏻‍♂️ Profile : [Notion Profile](https://melon-snake-63f.notion.site/Legend-ff23a9b65f6743dc8aef70e8cb852d2d) <br>
-🌊 Contack : tpwnd103502@naver.com<br>
-🧑‍💻 Project
+🙋🏻‍♂️ Profile : [Notion Profile](https://melon-snake-63f.notion.site/Legend-ff23a9b65f6743dc8aef70e8cb852d2d) <br><br>
+🌊 Contack : tpwnd103502@naver.com <br><br>
+🧑‍💻 Project 
 * [Your_PreciousTime](https://melon-snake-63f.notion.site/Legend-ff23a9b65f6743dc8aef70e8cb852d2d)
 * [TableOrder](https://melon-snake-63f.notion.site/Legend-ff23a9b65f6743dc8aef70e8cb852d2d)
 
