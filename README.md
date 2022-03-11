@@ -1,7 +1,7 @@
 ## 🤗Hi I'm Seoung Hyeon
 
 
-<div align="center">### I'm studying to be Android developer.</div>
+### <div align="center">I'm studying to be Android developer.</div>
 
 * 🌱 I’m currently learning Android/Kotlin<br><br>
 * 🙋🏻‍♂️ Profile : [Notion Profile](https://melon-snake-63f.notion.site/Legend-ff23a9b65f6743dc8aef70e8cb852d2d)<br><br>
