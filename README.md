@@ -1,4 +1,4 @@
-### 🤗Hi I'm Seoung Hyeon
+## 🤗Hi I'm Seoung Hyeon
 > Android, Kotlin
 
 Contact & Channels
