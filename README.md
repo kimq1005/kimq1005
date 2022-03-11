@@ -4,8 +4,8 @@
 ### I'm studying Android/Kotlin
 
 🧑‍💻 Android Studio , Kotlin <br>
-💭 My Profile : https://melon-snake-63f.notion.site/Legend-ff23a9b65f6743dc8aef70e8cb852d2d
-🌊 Contact Email : tpwnd103502@naver.com
+💭 My Profile : https://melon-snake-63f.notion.site/Legend-ff23a9b65f6743dc8aef70e8cb852d2d<br>
+🌊 Contact Email : tpwnd103502@naver.com<br>ddd
 
 
 
