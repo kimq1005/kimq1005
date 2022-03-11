@@ -14,7 +14,7 @@
 🌊 **email** :  tpwnd103502@naver.com<br>
 🌟 **github** : https://github.com/kimq1005<br>
 
-## Github stats
+## Github Stats
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kimq1005&show_icons=true&theme=tokyonight)
 
