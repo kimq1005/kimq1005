@@ -10,9 +10,11 @@
  -->
 
 <br>1996.10.05<br>
-🙋🏻‍♂️ profile [Notion Profile](https://melon-snake-63f.notion.site/Legend-ff23a9b65f6743dc8aef70e8cb852d2d)<br>
-🌊 email   tpwnd103502@naver.com<br>
-🌟 github  https://github.com/kimq1005<br>
+🙋🏻‍♂️ **profile** : [Notion Profile](https://melon-snake-63f.notion.site/Legend-ff23a9b65f6743dc8aef70e8cb852d2d)<br>
+🌊 **email** :  tpwnd103502@naver.com<br>
+🌟 **github** : https://github.com/kimq1005<br>
+
+## Github stats
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kimq1005&show_icons=true&theme=tokyonight)
 
