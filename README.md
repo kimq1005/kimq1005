@@ -2,9 +2,12 @@
 
 
 ### I'm studying Android/Kotlin
-* 🌱 I’m currently learning Android, Kotlin 
 
-* ⭐️ Introduce me https://melon-snake-63f.notion.site/Legend-ff23a9b65f6743dc8aef70e8cb852d2d
+🧑‍💻 Android Studio , Kotlin
+💭 My Profile : https://melon-snake-63f.notion.site/Legend-ff23a9b65f6743dc8aef70e8cb852d2d
+🌊 Contact Email : tpwnd103502@naver.com
+
+
 
 
 
