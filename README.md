@@ -13,7 +13,9 @@ Contact & Channels
 
 - Email : tpwnd103502@naver.com 
 
-- Github : 깃허브 링크는 여기잖아 따로 안올린다
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimq1005&show_icons=true&theme=dark)
+
+
 
 
 ---
