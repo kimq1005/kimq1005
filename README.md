@@ -13,6 +13,7 @@
 🙋🏻‍♂️ **profile** : [Notion Profile](https://melon-snake-63f.notion.site/Legend-ff23a9b65f6743dc8aef70e8cb852d2d)<br>
 🌊 **email** :  tpwnd103502@naver.com<br>
 🌟 **github** : https://github.com/kimq1005<br>
+💻 **project** : [Your_PreciousTime](https://github.com/kimq1005/YourPrecious_Time-final-) , [TableOrder](https://github.com/kimq1005/TableOrder)
 
 ## Github Stats
 
