@@ -1,4 +1,4 @@
-##  🤗Hi I'm Seoung Hyeon.
+#  🤗Hi I'm Seoung Hyeon.
 
 
 ### Mobile App Developer. 
