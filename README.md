@@ -1,4 +1,4 @@
-# <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="ANDROID" height="30" /> Hi I'm Seoung Hyeon.
+# 🤗 Hi I'm Seoung Hyeon.
 
 
 ### Mobile App Developer. 
