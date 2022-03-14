@@ -21,12 +21,6 @@
 
 ## Github Stats
 
-<div align="center">
-
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlin-original-wordmark.svg" alt="KOTLIN" height="50" />  
-
-</div><br>
-
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kimq1005&show_icons=true&theme=tokyonight)
 
 <br>
