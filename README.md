@@ -1,4 +1,4 @@
-#  🤗Hi I'm Seoung Hyeon.
+# <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="ANDROID" height="30" /> Hi I'm Seoung Hyeon.
 
 
 ### Mobile App Developer. 
@@ -17,10 +17,22 @@
 
 <br><br>
 
+
+
 ## Github Stats
 
+<div align="center">
+
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlin-original-wordmark.svg" alt="KOTLIN" height="50" />  
+
+</div><br>
+
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kimq1005&show_icons=true&theme=tokyonight)
+
+<br>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimq1005&layout=compact&theme=tokyonight)
+
 
 
 
