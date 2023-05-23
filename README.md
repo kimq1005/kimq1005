@@ -10,7 +10,7 @@
  -->
 
 <br> **1996.10.05** <br>
-🙋🏻‍♂️ **profile** : [Notion Profile](https://melon-snake-63f.notion.site/Seoung-Hyeon-025a46f5d6f2472da8e23d0ab045afb5)<br>
+<!-- 🙋🏻‍♂️ **profile** : [Notion Profile](https://melon-snake-63f.notion.site/Seoung-Hyeon-025a46f5d6f2472da8e23d0ab045afb5)<br> -->
 🌊 **email** :  tpwnd103502@naver.com<br>
 🌟 **github** : https://github.com/kimq1005<br>
 📋 **portfolio** : [PetMily](https://github.com/kimq1005/PETMILLY_CLIENT)<br>
